@@ -1,0 +1,12 @@
+[submodule "Dependencies/ajson"]
+	path = Dependencies/ajson
+	url = https://github.com/lordoffox/ajson.git
+[submodule "Dependencies/concurrentqueue"]
+	path = Dependencies/concurrentqueue
+	url = https://github.com/cameron314/concurrentqueue.git
+[submodule "Dependencies/LuaIntf"]
+	path = Dependencies/LuaIntf
+	url = https://github.com/ketoo/lua-intf.git
+[submodule "_Out/NFDataCfg/ScriptModule/json"]
+	path = _Out/NFDataCfg/ScriptModule/json
+	url = https://github.com/rxi/json.lua.git
